@@ -156,7 +156,7 @@ class TwentyFortyEight(object):
 
     def transit(self, current_table):
         """
-        we will take care of ant movements and addition in  all spots and returning the new table to play method
+        we will take care of any movements and addition in  all spots and returning the new table to play method
         :param: current_table(type list) original table sent from play method after getting user input:
         :return: table(type list) after being done with the movements based on User Input
         """
